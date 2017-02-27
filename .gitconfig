@@ -1,0 +1,17 @@
+[user]
+  name = Gran-Dragee
+  email = atelier-alice@hotmail.co.jp
+
+[alias]
+  s = status
+  d = diff
+  c = checkout
+  b = branch
+  ba = branch -a
+
+[core]
+  quotepath = false
+  precomposeunicode = true
+
+[color]
+  ui = true
