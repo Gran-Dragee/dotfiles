@@ -10,6 +10,9 @@ japanese-menu
 laguage-kotlin
 platformio-ide-terminal
 script
+emmet
+minimap
+remote-edit
 
 # Core Package
 # 勝手にインストールされるはず
