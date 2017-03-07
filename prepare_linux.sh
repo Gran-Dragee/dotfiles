@@ -6,6 +6,9 @@ yum install -y wget
 yum install -y tig
 yum install -y make
 yum install -y patch
+yum install -y openssl-devel
+yum install -y readline-devel
+yum install -y zlib-devel
 
 # rbenv
 git clone https://github.com/sstephenson/rbenv.git /usr/local/rbenv
