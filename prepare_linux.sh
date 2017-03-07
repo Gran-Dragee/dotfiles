@@ -1,5 +1,6 @@
 yum update -y
 
+yum install -y gcc
 yum install -y vim
 yum install -y wget
 yum install -y tig
