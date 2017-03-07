@@ -11,6 +11,7 @@ yum install -y readline-devel
 yum install -y zlib-devel
 
 # rbenv
+# ~/.rbenv, /usr/local/bin以下好きな場所に...
 git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
 git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
 echo 'export RBENV_ROOT="~/.rbenv"' >> ~/.bash_profile
